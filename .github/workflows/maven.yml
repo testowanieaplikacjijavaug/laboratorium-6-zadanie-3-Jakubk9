@@ -26,5 +26,3 @@ jobs:
       run: mvn -B test
     - name: Codecov
         uses: codecov/codecov-action@v1.0.6
-        with:
-          token: "60eb1452-0917-4a31-9a85-c16b8cd525d1"
